@@ -1,1 +1,1 @@
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="80%" alt="Seamless Code">
+<img src="https://raw.githubusercontent.com/YoneCode/YoneCode/main/YoneCode.gif" width="100%" alt="Coding">
