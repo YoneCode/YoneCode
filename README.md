@@ -1,1 +1,1 @@
-<img src="https://raw.githubusercontent.com/YoneCode/YoneCode/main/YoneCode.gif" width="100%" alt="Coding">
+<img src="./YoneCode.gif" width="100%" alt="cat">
